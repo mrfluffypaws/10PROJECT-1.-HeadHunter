@@ -37,6 +37,8 @@
 * Верный выбор графика для визуализации, умение читать инфоргафику и делать правильные выводы;   
 * Работу с GitHub.
 
+:arrow_up:[к оглавлению](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Оглавление)
+
 
 ### Краткая информация о данных
 * [Исходный файл в формате CSV](https://drive.google.com/file/d/1c-r3Xol9eg5ELvia4r4Vu6XUMqJZPcI1/view?usp=sharing)
