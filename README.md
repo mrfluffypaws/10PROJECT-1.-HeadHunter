@@ -2,7 +2,7 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Описание-проекта)  
-[2. Задача](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#КЗадача)  
+[2. Задача](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Задача)  
 [3. Краткая информация о данных](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Результат)    
