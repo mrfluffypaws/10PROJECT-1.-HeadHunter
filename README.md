@@ -5,7 +5,7 @@
 [2. Задача](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Задача)  
 [3. Краткая информация о данных](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Результат)    
+[5. Результат](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Результаты)    
 [6. Выводы](https://github.com/mrfluffypaws/10PROJECT-1.-HeadHunter/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
